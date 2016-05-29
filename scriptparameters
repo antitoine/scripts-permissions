@@ -1,0 +1,11 @@
+#This file is included in project bash scripts to define common parameters
+#You can modify it.
+
+SOURCEDIR=<name of the source folder in project root>
+SCRIPTDIR=<name of scripts folder in project root>
+APACHEUSER=<nginx/apache user>
+APACHEGROUP=<nginx/apache group>
+SCRIPTDEBUG=false
+PROJECTROOTDIR=/path/to/project/root
+USER=<user>
+GROUP=<group>
